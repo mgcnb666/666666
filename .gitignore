@@ -1,0 +1,15 @@
+# Compiler files
+cache/
+out/
+.vscode/
+cache-zk/
+node_modules/
+zkout/
+
+# Ignores development broadcast logs
+broadcast/
+
+# Dotenv file
+.env
+
+anvil.sh
